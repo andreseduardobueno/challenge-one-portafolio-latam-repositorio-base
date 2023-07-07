@@ -1,0 +1,18 @@
+.academic{
+    width:1420px;
+    height: 581px;
+    background-color: var(--cor-de-franja);
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+   .academic{
+
+    width: 360px;
+    height: 661px;
+   }
+}

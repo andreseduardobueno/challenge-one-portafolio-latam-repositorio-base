@@ -1,0 +1,20 @@
+.hobbies__name{
+    margin: 0;    
+    width: 141px;
+    height: 19px;
+
+}
+
+@media (min-width: 768px) {
+
+    
+
+}
+
+
+@media (min-width: 360px) {
+    .hobbies__name{
+    width: 124px;
+    height: 19px;
+    }
+}

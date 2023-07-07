@@ -1,0 +1,24 @@
+.title__network{
+    display: flex;
+    justify-content: left;
+    margin: 0;
+    padding: 0;
+    
+}
+.title__network__item{
+    align-items: left;
+    margin: 1%;
+    padding: 1%;
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .title__network__item{
+        margin: 0px;
+        padding: 0px;
+    }
+}

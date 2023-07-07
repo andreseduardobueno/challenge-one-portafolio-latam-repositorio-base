@@ -1,0 +1,22 @@
+.formcontato__text{
+    display: block;
+    width: 656px;
+    height: 596px;
+    margin-left: 10px;
+   
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .formcontato__text{
+        width: 360px;
+        height: 777px;
+        
+    }
+        
+    
+}

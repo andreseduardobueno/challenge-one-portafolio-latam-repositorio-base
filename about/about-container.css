@@ -1,0 +1,18 @@
+.about__container{
+    width: 751px;
+    height: 255px;
+    margin-left: 10px;
+    
+    
+}
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .about__container{
+        width: 328px;
+        height: 318px;
+    }
+}

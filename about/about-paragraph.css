@@ -1,0 +1,16 @@
+.about__paragraph{
+    font-size: large;
+    
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .about__paragraph{
+        font-size: 14px;
+    }
+}

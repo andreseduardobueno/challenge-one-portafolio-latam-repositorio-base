@@ -1,0 +1,26 @@
+.hobbies__box{
+    padding: 1px;
+    width: 174px;
+    height: 174px;
+    justify-content: left;
+    align-items: left;
+    margin: 0;
+    margin-right: 10px;
+    background-color: var(--cor-de-cubos);
+
+}
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .hobbies__box{
+    margin: 10px;
+    width: 156px;
+    height: 118px;
+    padding: 0px;
+    justify-content: space-between;
+        
+    }
+}

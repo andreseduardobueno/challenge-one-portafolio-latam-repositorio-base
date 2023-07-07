@@ -1,0 +1,23 @@
+.experience__info{
+    width: 368px;
+    height: 112px;
+    margin: 0, 0, 0, 50px;
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .experience__title{
+        font-size: 20px;
+        margin-left: 35px;
+    }
+    .experience__text{
+        font-size: 15px;
+        margin-left: 35px;
+    }
+        
+    
+}

@@ -1,0 +1,18 @@
+.title{
+    display: flex;
+    justify-content:left;
+    
+    
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .title-profile{
+        width: 98px;
+        height: 98px;
+    }
+}

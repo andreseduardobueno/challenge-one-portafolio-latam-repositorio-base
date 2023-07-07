@@ -1,0 +1,19 @@
+.experience{
+    width: 1136px;
+    height: 1886px;
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .experience{
+        width: 360px;
+        height: 1321px;
+    }
+        
+    
+}

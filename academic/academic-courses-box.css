@@ -1,0 +1,21 @@
+.academic__courses__box{
+
+    background-color: white;
+     width: 368px;
+     height: 280px;
+     justify-content: center;
+ }
+
+ @media (min-width: 768px) {
+
+ }
+ 
+ 
+ @media (min-width: 360px) {
+    .academic__courses__box{
+        width: 296px;
+        height: 118px;
+        justify-content: center;
+        margin: 30px 30px 50px 30px;
+    }
+ }

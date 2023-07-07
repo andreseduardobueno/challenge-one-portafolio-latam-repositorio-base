@@ -1,0 +1,40 @@
+.menu__list{
+    display: flex;
+    
+    
+    
+}
+.menu__list__item{
+    display: flex;
+    padding: 30px;  
+    
+    
+}
+
+.menu__list__item--negrita{
+    display: flex;
+    padding: 30px;  
+    font-weight: bold;
+}
+@media (min-width: 768px) {
+
+}
+
+
+@media (max-width: 360px) {
+    .menu__list{
+
+    }
+
+    .menu__list__item{
+        display: none;
+        /*visibility: hidden*/
+        
+
+    }
+    .menu__list__item--negrita{
+        margin: 0%;
+        padding: 0;
+
+    }
+}

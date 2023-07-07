@@ -1,0 +1,35 @@
+.experience__description{
+  
+    width: 560px;
+    height: 51px;
+
+}
+.experiencia__botao--repo{
+    width: 105px;
+    height: 51px;
+    color: var(--cor-de-botones);
+    border-color: var(--cor-de-botones);
+   
+}
+
+.experience__botao--demo{
+    width: 105px;
+    height: 51px;
+    background-color: var(--cor-de-botones);
+    color: #F5F5F5;
+    border: none;
+    
+
+}
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .experience__description{
+        margin-left: 35px;
+    }
+        
+    
+}

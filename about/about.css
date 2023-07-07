@@ -1,0 +1,19 @@
+.about{
+    width: 1420px;
+    height: 383px;
+    background-color: var(--cor-de-franja);
+    margin-right: 0px;
+    
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .about{
+        width: 360px;
+        height: 350px;
+    }
+}

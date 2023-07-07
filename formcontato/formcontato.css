@@ -1,0 +1,21 @@
+.formcontato{
+    width: 1440px;
+    height: 690px;
+    background-color: var(--cor-de-franja);
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .formcontato{
+        width: 360px;
+        height: 675px;
+        
+    }
+        
+    
+}

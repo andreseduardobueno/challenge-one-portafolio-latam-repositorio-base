@@ -1,0 +1,28 @@
+.experiencie__box:nth-child(3){
+    flex-direction: row-reverse;
+}
+
+.experiencie__box:nth-child(5){
+    flex-direction: row-reverse;
+}
+    
+
+.experiencie__box{
+    display: flex;
+    align-items: center;
+    margin-bottom: 45px;
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .experiencie__box{
+        display: block;
+        
+    }
+        
+    
+}

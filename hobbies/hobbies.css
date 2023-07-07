@@ -1,0 +1,19 @@
+.hobbies{
+    display: flex;
+    flex-direction: column;
+    width: 1136px;
+    height: 244px;
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .hobbies{
+        width: 360px;
+        height: 508px;
+        
+    }
+}

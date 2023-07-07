@@ -1,0 +1,20 @@
+.formcontato__contacto{
+    width: 1136px;
+    height: 660px;
+    display: flex;
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .formcontato__contacto{
+        width: 360px;
+        height: 777px;
+        
+    }
+        
+    
+}

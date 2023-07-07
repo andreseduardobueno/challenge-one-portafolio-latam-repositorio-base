@@ -1,0 +1,18 @@
+.experience__img{
+    margin-right: 20px;
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .experience__img{
+        width: 296px;
+        height: 144px;
+        margin: 5px 20px 5px 35px;
+    }
+        
+    
+}

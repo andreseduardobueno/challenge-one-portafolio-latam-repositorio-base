@@ -1,0 +1,19 @@
+.hobbies__title{
+    text-align: center;
+    width: 1136px;
+    height: 86px;
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    .hobbies__title{
+        width: 380px;
+        height: 26px;
+        text-align: center;
+    }
+    }

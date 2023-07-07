@@ -1,0 +1,20 @@
+.title-div{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1136px;
+    height: 368px;
+}
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px) {
+    
+    .title-div{
+        display: block;
+        width: 360px;
+        height: 294px;
+    }
+}

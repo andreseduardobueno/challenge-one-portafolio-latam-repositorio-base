@@ -1,0 +1,13 @@
+.formcontato--esquerda{
+    display: flex;
+}
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 360px){   
+    .form0contato__img{
+        display: none;
+    }
+}
