@@ -9,12 +9,18 @@
     background-color: var(--cor-de-cubos);
 
 }
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .hobbies__box{
+        margin: 10px;
+        width: 224px;
+        height: 118px;
+        padding: 0px;
+        justify-content: space-between;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .hobbies__box{
     margin: 10px;
     width: 156px;

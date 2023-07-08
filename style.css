@@ -35,12 +35,18 @@ a{
     color: var(--cor-de-link);
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    body{
+        margin: 0%;
+    }
+    ul{
+        margin: 0px;
+        padding: 15px;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     body{
         margin: 0%;
     }

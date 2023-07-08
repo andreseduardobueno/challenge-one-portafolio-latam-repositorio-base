@@ -4,12 +4,17 @@
     margin: 0, 0, 0, 50px;
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .experience__text{
+        margin-left: 35px ;
+    }
+    .experience__title{
+        margin-left: 35px;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .experience__title{
         font-size: 20px;
         margin-left: 35px;

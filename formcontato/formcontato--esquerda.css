@@ -1,12 +1,14 @@
 .formcontato--esquerda{
     display: flex;
 }
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .form0contato__img{
+        display: none;
+    }
 }
 
 
-@media (min-width: 360px){   
+@media (max-width: 425px){   
     .form0contato__img{
         display: none;
     }

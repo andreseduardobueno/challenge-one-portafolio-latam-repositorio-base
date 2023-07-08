@@ -9,7 +9,7 @@
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .about__paragraph{
         font-size: 14px;
     }

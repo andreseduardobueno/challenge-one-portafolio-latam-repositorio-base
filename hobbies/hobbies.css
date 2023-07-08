@@ -5,12 +5,16 @@
     height: 244px;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
+    .hobbies{
+        width:768px;
+        height: 390px;
+    }
 
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .hobbies{
         width: 360px;
         height: 508px;

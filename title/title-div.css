@@ -5,12 +5,17 @@
     height: 368px;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
+    .title-div{
+        width: 768px;
+        height: 210px;
+      
+    }
 
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     
     .title-div{
         display: block;

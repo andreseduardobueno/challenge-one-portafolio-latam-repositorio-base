@@ -6,11 +6,13 @@
     justify-content: left;
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .menu{
+        justify-content: space-between;
+    }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 425px) {
     .menu__title{
         width: 134px;
         height: 24px;

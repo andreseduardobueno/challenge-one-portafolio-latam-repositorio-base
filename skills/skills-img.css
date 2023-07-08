@@ -6,12 +6,16 @@
 
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .skills__img{
+        margin-top: 55px ;
+        margin-left: 0px;
+        text-align: left;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .skills__img{
         width: 40px;
         height: 37px;

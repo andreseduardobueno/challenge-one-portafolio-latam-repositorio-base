@@ -5,12 +5,10 @@
     
     
 }
-@media (min-width: 768px) {
-
-}
 
 
-@media (min-width: 360px) {
+
+@media (max-width: 425px) {
     .about__container{
         width: 328px;
         height: 318px;

@@ -11,7 +11,7 @@
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .formcontato__text{
         width: 360px;
         height: 777px;

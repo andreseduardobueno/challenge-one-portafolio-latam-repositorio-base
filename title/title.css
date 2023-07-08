@@ -5,12 +5,16 @@
     
 }
 
-@media (min-width: 768px) {
 
+@media (max-width: 768px) {
+    .title-profile{
+        width: 146px;
+        height: 146px;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .title-profile{
         width: 98px;
         height: 98px;

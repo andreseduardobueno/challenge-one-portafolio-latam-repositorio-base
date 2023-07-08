@@ -30,7 +30,7 @@
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .formcontato__input{
         width: 296px;
         height: 56px;

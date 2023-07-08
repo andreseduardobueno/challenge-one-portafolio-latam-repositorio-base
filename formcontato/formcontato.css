@@ -5,15 +5,19 @@
 
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .formcontato{
+        width: 768px;
+        height: 709px;
+        margin-top: 80px;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .formcontato{
         width: 360px;
-        height: 675px;
+        height: 637px;
         
     }
         

@@ -6,12 +6,17 @@
      justify-content: center;
  }
 
- @media (min-width: 768px) {
-
+ @media (max-width: 768px) {
+    .academic__courses__box{
+        width: 224px;
+        height: 118px;
+        justify-content: center;
+        margin: 15px 15px 25px 15px;
+    }
  }
  
  
- @media (min-width: 360px) {
+ @media (max-width: 425px) {
     .academic__courses__box{
         width: 296px;
         height: 118px;

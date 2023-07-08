@@ -11,12 +11,16 @@
     padding: 1%;
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .title__network__item{
+        padding: 0;
+        justify-content: space-between;
+        margin: 0px 80px 0px 0px;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .title__network__item{
         margin: 0px;
         padding: 0px;

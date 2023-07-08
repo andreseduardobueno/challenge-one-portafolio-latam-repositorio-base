@@ -6,13 +6,13 @@
 }
 
 @media (min-width: 768px) {
-
+    
     
 
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .skills__name{
     width: 124px;
     height: 19px;

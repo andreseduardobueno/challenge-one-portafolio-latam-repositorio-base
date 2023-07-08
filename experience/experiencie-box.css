@@ -10,15 +10,17 @@
 .experiencie__box{
     display: flex;
     align-items: center;
-    margin-bottom: 45px;
+    margin: 20px 25px 50px 0px;
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .experiencie__box{
+        display: block;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .experiencie__box{
         display: block;
         

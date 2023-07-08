@@ -5,12 +5,15 @@
 
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .hobbies__title{
+        width: 800px;
+        height: 26px;
+        text-align: center;
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 425px) {
     .hobbies__title{
         width: 380px;
         height: 26px;

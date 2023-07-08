@@ -8,7 +8,7 @@
 }
 
 
-@media (min-width: 360px ) {
+@media (max-width: 425px ) {
     .footer{
         width: 360px;
         height: 102px

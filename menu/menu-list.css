@@ -16,14 +16,25 @@
     padding: 30px;  
     font-weight: bold;
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
+    .menu__list{
+        justify-content: space-between;
+    }
+    .menu__list__item{
+        display: none;
+     /*visibility: hidden*/
+    }
+    .menu__list__item--negrita{
+        margin: 0%;
+        padding: 0;
 
+    }
 }
 
 
-@media (max-width: 360px) {
+@media (max-width: 425px) {
     .menu__list{
-
+        
     }
 
     .menu__list__item{

@@ -4,12 +4,15 @@
 
 }
 
-@media (min-width: 768px) {
-
+@media (max-width: 768px) {
+    .experience{
+        width: 768px;
+        height: 2017px;
+    }
 }
 
 
-@media (min-width: 360px) {
+@media (max-width: 424px) {
     .experience{
         width: 360px;
         height: 1321px;
